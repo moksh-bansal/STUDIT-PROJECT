@@ -3,7 +3,7 @@ To create a collaborative website for NIT Kurukshetra's students that
 provides structured PYQs , notes for all branches , and track their 
 academic data and attendance along with a complaint box section so 
 that students can express their problems anonymously.   
-# This Website will contain :-
+# This Website will contain :
 # Module - 1 :   
 Previous Year Questions for each department and 
 year/semester of NIT KURUKSHETRA. 
